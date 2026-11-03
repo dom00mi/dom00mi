@@ -17,7 +17,7 @@
 
 ## 👋 About me
 
-I'm **Domenico**, a quantitative finance and mathematics enthusiast with experience across **quantitative research, data science, volatility modelling, and financial analytics**. I'm pursuing an **MSc in Mathematical & Computational Finance at the University of Oxford**, and I hold a **Certificate in Quantitative Finance (CQF), awarded with Distinction**, and a **First-Class BSc in Mathematics with Finance**.
+I'm **Domenico**, a mathematics and quantitative finance enthusiast with experience across **quantitative research, data science, volatility modelling, and financial analytics**. I hold an **MSc in Mathematical & Computational Finance at the University of Oxford**, and a **Certificate in Quantitative Finance (CQF), awarded with Distinction**, and a **First-Class BSc in Mathematics with Finance** (University of Sussex).
 
 This GitHub is my workspace for translating theory into code: from **stochastic calculus and derivatives pricing** to **machine learning, numerical methods, and algorithmic trading**. I enjoy building reproducible experiments, testing models, and understanding *why* they work.
 
@@ -25,12 +25,12 @@ This GitHub is my workspace for translating theory into code: from **stochastic 
 <tr><td width="50%" valign="top">
 
 ### 📐 Mathematical foundations
-Probability · Stochastic processes · Stochastic calculus · PDEs · Numerical analysis · Optimisation
+Probability · Stochastic processes · Stochastic calculus · PDEs · Numerical analysis · Optimisation · Control theory
 
 </td><td width="50%" valign="top">
 
 ### 📈 Quantitative finance
-Derivatives pricing · Volatility surfaces · Hedging · Market microstructure · Market making · Yield curves
+Derivatives pricing · Volatility surfaces · Hedging · Market microstructure · Market making · Stochastic modelling
 
 </td></tr>
 <tr><td valign="top">
@@ -256,7 +256,7 @@ I'm always interested in conversations about **quantitative research, mathematic
 [![Email](https://img.shields.io/badge/Email%20Me-domenico.nava.dn%40gmail.com-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domenico.nava.dn@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-dom00mi-24292F?style=for-the-badge&logo=github)](https://github.com/dom00mi)
 
-*Mathematics gives the structure. Code makes it testable.*
+*My motto: "Mathematics gives the structure. Code makes it testable."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:17365D,100:1F6FEB&height=110&section=footer" width="100%" alt="Decorative footer" />
 
